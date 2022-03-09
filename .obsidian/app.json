@@ -1,0 +1,14 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "legacyEditor": false,
+  "attachmentFolderPath": "files",
+  "promptDelete": false,
+  "vimMode": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ],
+  "spellcheck": true
+}

@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "8099877b6a420dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e3ed11608b72fa6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IT/Computer Science/Метаинформация.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c68517d039d9b775",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf96aea6a2daee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61b3987fd0d8c8e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f7661a696fbbd56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 409
+  },
+  "right": {
+    "id": "d1cb40fc119b2f9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "14ead652a9c1fc88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0994a68f78e536ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IT/Computer Science/Метаинформация.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "925e8eab036ed556",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8e3ed11608b72fa6",
+  "lastOpenFiles": [
+    "IT/Computer Science/Метаинформация.md",
+    "IT/Computer Science/Сопрограммы.md",
+    "IT/Computer Science/Проектирование.md",
+    "IT/Computer Science/Процесс.md",
+    "IT/Computer Science/Поддержка ПО.md",
+    "IT/Computer Science/Внедрение.md",
+    "IT/Computer Science/Интеграция.md",
+    "IT/Computer Science/Тестирование.md",
+    "IT/Computer Science/Разработка.md",
+    "IT/Computer Science/Анализ требований.md"
+  ]
+}
