@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Computer Science/Метаинформация.md",
-            "mode": "source",
+            "file": "IT/Database/Реляционная алгебра и модель данных.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Computer Science/Метаинформация.md",
+                "file": "IT/Database/Реляционная алгебра и модель данных.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "8e3ed11608b72fa6",
   "lastOpenFiles": [
+    "IT/Database/Реляционная алгебра и модель данных.md",
     "IT/Computer Science/Метаинформация.md",
     "IT/Computer Science/Сопрограммы.md",
     "IT/Computer Science/Проектирование.md",
@@ -107,7 +108,6 @@
     "IT/Computer Science/Внедрение.md",
     "IT/Computer Science/Интеграция.md",
     "IT/Computer Science/Тестирование.md",
-    "IT/Computer Science/Разработка.md",
-    "IT/Computer Science/Анализ требований.md"
+    "IT/Computer Science/Разработка.md"
   ]
 }
