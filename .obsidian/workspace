@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Linux/Нотация в Linux документации.md",
-            "mode": "source",
+            "file": "IT/Computer Science/SR-Latch.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Нотация в Linux документации.md",
+                "file": "IT/Computer Science/SR-Latch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +95,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "8e3ed11608b72fa6",
   "lastOpenFiles": [
-    "IT/Linux/Нотация в Linux документации.md",
-    "IT/Computer Science/SSL-TLS.md",
-    "IT/Вопросы по темам для обучения.md",
-    "IT/Computer Science/Виды шифрования.md",
-    "IT/Computer Science/Абстракция.md",
-    "IT/Computer Science/Абстрактное синтаксическое дерево.md",
-    "IT/Math/Базовые математические определения.md",
-    "IT/Database/Реляционная алгебра и модель данных.md",
-    "IT/Database/Транзакция в БД.md",
-    "IT/Database/СУБД.md"
+    "IT/Computer Science/SR-Latch.md",
+    "SelfGrowth/Построение личной базы знаний.md",
+    "SelfGrowth/Декомпозиция задач.md",
+    "IT/Linux/Всё есть файл.md",
+    "IT/Database/СУБД.md",
+    "IT/Linux/Дисковый кэш.md",
+    "Templates/Base Template.md",
+    "IT/Database/Проектирвование БД.md",
+    "IT/Database/Представления в СУБД.md",
+    "IT/Database/Реляционная алгебра и модель данных.md"
   ]
 }
