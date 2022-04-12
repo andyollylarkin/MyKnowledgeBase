@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Computer Science/SR-Latch.md",
-            "mode": "preview",
+            "file": "IT/Computer Science/ОО парадигма.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Абстрак",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Computer Science/SR-Latch.md",
+                "file": "IT/Computer Science/ОО парадигма.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "8e3ed11608b72fa6",
   "lastOpenFiles": [
-    "IT/Computer Science/SR-Latch.md",
-    "SelfGrowth/Построение личной базы знаний.md",
-    "SelfGrowth/Декомпозиция задач.md",
-    "IT/Linux/Всё есть файл.md",
-    "IT/Database/СУБД.md",
-    "IT/Linux/Дисковый кэш.md",
-    "Templates/Base Template.md",
-    "IT/Database/Проектирвование БД.md",
-    "IT/Database/Представления в СУБД.md",
-    "IT/Database/Реляционная алгебра и модель данных.md"
+    "IT/Computer Science/ОО парадигма.md",
+    "IT/Math&Logic/Множество.md",
+    "IT/Computer Science/Парадигма.md",
+    "IT/Computer Science/Абстракция.md",
+    "IT/Computer Science/Оператор.md",
+    "IT/Computer Science/Программная инженерия.md",
+    "IT/Computer Science/Этапы развития парадигм.md",
+    "IT/Linux/Нотация Бекуса-Наура.md",
+    "IT/Computer Science/Типы языков программирования.md",
+    "IT/Computer Science/Императивная парадигма.md"
   ]
 }

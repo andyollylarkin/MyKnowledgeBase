@@ -1,5 +1,5 @@
 # SR Latch
-#basis #memory #cpu #computer #computerscience 
+#basis #memory #cpu #computer #computerscience #electrinics #boolean
 
 ||OR||
 |:---:|:---:|:---:|
