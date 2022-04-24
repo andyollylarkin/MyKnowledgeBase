@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Computer Science/ОО парадигма.md",
-            "mode": "source",
+            "file": "IT/Computer Science/Тип данных.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Computer Science/ОО парадигма.md",
+                "file": "IT/Computer Science/Тип данных.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,20 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "8e3ed11608b72fa6",
   "lastOpenFiles": [
+    "IT/Computer Science/Тип данных.md",
+    "IT/Computer Science/Полиморфизм.md",
+    "IT/Computer Science/Наследование.md",
+    "IT/Computer Science/APIPA.md",
+    "IT/Вопросы по темам для обучения.md",
+    "IT/Linux/Переменные окружения в Linux.md",
+    "IT/Computer Science/SOLID.md",
     "IT/Computer Science/ОО парадигма.md",
     "IT/Computer Science/Интерфейс.md",
-    "IT/Computer Science/Инкапсуляция.md",
-    "IT/Computer Science/Абстракция.md",
-    "IT/Computer Science/Наследование.md",
-    "IT/Computer Science/Парадигма.md",
-    "IT/Math&Logic/Множество.md",
-    "IT/Computer Science/Оператор.md",
-    "IT/Computer Science/Программная инженерия.md",
-    "IT/Computer Science/Этапы развития парадигм.md"
+    "IT/Computer Science/Инкапсуляция.md"
   ]
 }
