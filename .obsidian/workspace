@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Computer Science/Тип данных.md",
+            "file": "IT/Computer Technologies/Принципы/Время.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Абстрак",
+                "query": "Асинхро",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Computer Science/Тип данных.md",
+                "file": "IT/Computer Technologies/Принципы/Время.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "8e3ed11608b72fa6",
   "lastOpenFiles": [
-    "IT/Computer Science/Тип данных.md",
-    "IT/Computer Science/Полиморфизм.md",
-    "IT/Computer Science/Наследование.md",
-    "IT/Computer Science/APIPA.md",
-    "IT/Вопросы по темам для обучения.md",
-    "IT/Linux/Переменные окружения в Linux.md",
-    "IT/Computer Science/SOLID.md",
-    "IT/Computer Science/ОО парадигма.md",
-    "IT/Computer Science/Интерфейс.md",
-    "IT/Computer Science/Инкапсуляция.md"
+    "IT/Computer Technologies/Принципы/Время.md",
+    "IT/Computer Technologies/Конкуретные вычисления.md",
+    "IT/Computer Technologies/Цикл событий.md",
+    "IT/Computer Technologies/Асинхронный I-O.md",
+    "IT/Computer Technologies/Канал ввода-вывода.md",
+    "IT/Computer Technologies/Функция обратного вызова.md",
+    "IT/Computer Technologies/Принципы/Разделение ответственности.md",
+    "IT/Computer Technologies/SSL-TLS.md",
+    "IT/Computer Technologies/TCP-IP.md",
+    "IT/Computer Technologies/Виды шифрования.md"
   ]
 }
