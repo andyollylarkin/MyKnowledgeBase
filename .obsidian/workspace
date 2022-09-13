@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Computer Technologies/Принципы/Время.md",
-            "mode": "preview",
+            "file": "IT/Database/Кардинальность и селективность.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Асинхро",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409
+    "width": 446.5
   },
   "right": {
     "id": "d1cb40fc119b2f9f",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Computer Technologies/Принципы/Время.md",
+                "file": "IT/Database/Кардинальность и селективность.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 401.5
   },
   "active": "8e3ed11608b72fa6",
   "lastOpenFiles": [
-    "IT/Computer Technologies/Принципы/Время.md",
-    "IT/Computer Technologies/Конкуретные вычисления.md",
-    "IT/Computer Technologies/Цикл событий.md",
-    "IT/Computer Technologies/Асинхронный I-O.md",
-    "IT/Computer Technologies/Канал ввода-вывода.md",
-    "IT/Computer Technologies/Функция обратного вызова.md",
-    "IT/Computer Technologies/Принципы/Разделение ответственности.md",
-    "IT/Computer Technologies/SSL-TLS.md",
-    "IT/Computer Technologies/TCP-IP.md",
-    "IT/Computer Technologies/Виды шифрования.md"
+    "IT/Database/Реляционная алгебра и модель данных.md",
+    "IT/Database/Кардинальность и селективность.md",
+    "IT/Linux/tips/Ссылки на полезные статьи.md",
+    "IT/Linux/sudoers.md",
+    "IT/Linux/tips/Включение sysrq.md",
+    "IT/Computer Technologies/Замыкание.md",
+    "IT/Computer Technologies/docker/Структура Docker.md",
+    "IT/Computer Technologies/algorithms/Сортировка.md",
+    "IT/Computer Technologies/algorithms/Стэк.md",
+    "IT/Computer Technologies/algorithms/Об Big-O нотации.md"
   ]
 }
