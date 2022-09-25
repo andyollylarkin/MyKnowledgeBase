@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Computer Technologies/JWT.md",
+            "file": "IT/Math&Logic/Логические связки.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Computer Technologies/JWT.md",
+                "file": "IT/Math&Logic/Логические связки.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "41241b0e284cbf98",
   "lastOpenFiles": [
+    "IT/Computer Technologies/JWT.md",
     "IT/Computer Technologies/Сопрограммы.md",
     "IT/Computer Technologies/golang/Ключевые слова.md",
     "IT/Computer Technologies/golang/Горутина.md",
@@ -107,7 +108,6 @@
     "IT/Linux/Перенаправление.md",
     "IT/Linux/Переменные окружения в Linux.md",
     "IT/Linux/Оболочка.md",
-    "IT/Linux/Нотация в Linux документации.md",
-    "IT/Linux/Запуск программ ОС Linux (диаграмма).md"
+    "IT/Linux/Нотация в Linux документации.md"
   ]
 }
