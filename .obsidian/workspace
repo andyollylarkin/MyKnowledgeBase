@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3ed11608b72fa6",
+        "id": "41241b0e284cbf98",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Database/Кардинальность и селективность.md",
-            "mode": "source",
+            "file": "IT/Computer Technologies/JWT.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#unique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Database/Кардинальность и селективность.md",
+                "file": "IT/Computer Technologies/JWT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "direction": "horizontal",
     "width": 401.5
   },
-  "active": "8e3ed11608b72fa6",
+  "active": "41241b0e284cbf98",
   "lastOpenFiles": [
-    "IT/Database/Реляционная алгебра и модель данных.md",
-    "IT/Database/Кардинальность и селективность.md",
-    "IT/Linux/tips/Ссылки на полезные статьи.md",
-    "IT/Linux/sudoers.md",
-    "IT/Linux/tips/Включение sysrq.md",
-    "IT/Computer Technologies/Замыкание.md",
-    "IT/Computer Technologies/docker/Структура Docker.md",
-    "IT/Computer Technologies/algorithms/Сортировка.md",
-    "IT/Computer Technologies/algorithms/Стэк.md",
-    "IT/Computer Technologies/algorithms/Об Big-O нотации.md"
+    "IT/Computer Technologies/Сопрограммы.md",
+    "IT/Computer Technologies/golang/Ключевые слова.md",
+    "IT/Computer Technologies/golang/Горутина.md",
+    "IT/Computer Technologies/golang/Каналы.md",
+    "IT/Linux/Unix Pipe.md",
+    "IT/Linux/Перенаправление.md",
+    "IT/Linux/Переменные окружения в Linux.md",
+    "IT/Linux/Оболочка.md",
+    "IT/Linux/Нотация в Linux документации.md",
+    "IT/Linux/Запуск программ ОС Linux (диаграмма).md"
   ]
 }
