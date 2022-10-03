@@ -12,4 +12,5 @@
 |Ссылки|\[display text\]\(link\)|
 |Отображение возведения в степень|\<sup\>|
 |Отображение возведения в степень (внизу числа)|\<sub\>|
-|Математические выражения|\$exp\$|
+|Математические выражения [Latex syntax](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)|\$exp\$|\
+
