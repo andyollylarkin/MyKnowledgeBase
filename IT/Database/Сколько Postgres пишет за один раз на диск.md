@@ -30,7 +30,7 @@ watch -d -n 1 cat ./io
 ![[Pasted image 20221003183634.png]]
 
 Итого:
-**write_bytes (initial) - write_bytes(current) = 57344-49152 = 8192 или 8 kB**
+write_bytes (initial) - write_bytes(current) = <span style="color: blue"><b>57344-49152 = 8192 или 8 kB</b></span>
 
 ---
 ## Библиография

@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "8099877b6a420dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ed27dae783a8eb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbea94ef15f79025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Computer Technologies/golang/Ошибки.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0f1d67cb5befbe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Linux/Структура памяти процесса.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "876e01b6dd72c465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Computer Technologies/Компьютерная арифметика.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c68517d039d9b775",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf96aea6a2daee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61b3987fd0d8c8e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f7661a696fbbd56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "числа",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 403.5
+  },
+  "right": {
+    "id": "d1cb40fc119b2f9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "14ead652a9c1fc88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0994a68f78e536ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IT/Linux/Структура памяти процесса.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "925e8eab036ed556",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "active": "a0f1d67cb5befbe4",
+  "lastOpenFiles": [
+    "IT/Database/Статистика в БД.md",
+    "IT/Linux/Структура памяти процесса.md",
+    "IT/Computer Technologies/golang/Ошибки.md",
+    "IT/Computer Technologies/Тип данных.md",
+    "IT/Math&Logic/Системы счисления.md",
+    "IT/Math&Logic/Периодические дроби.md",
+    "IT/Math&Logic/Множество.md",
+    "IT/Math&Logic/Логические связки.md",
+    "IT/Math&Logic/Базовые математические определения.md",
+    "IT/Computer Technologies/Главный технический императив.md"
+  ]
+}

@@ -2,7 +2,6 @@
 aliases: [Json Web Token, JW Token, JWT Token, JWT авторизация]
 tags: [crypto, authentication, basis, cs, security]
 ---
-# JWT
 <h6>25-09-2022</h6>
 ----------
 ## Определение
@@ -54,3 +53,5 @@ JWT токен имеет следующую структуру:
 ## Библиография
 - [Про JWT](https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc)
 - [JWT Introduction](https://jwt.io/introduction)
+- [Зарегестрированные Claims в IANA](https://www.iana.org/assignments/jwt/jwt.xhtml)
+- [RFC 7519 - JWT](https://www.rfc-editor.org/rfc/rfc7519.html#page-17)

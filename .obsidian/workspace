@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Computer Technologies/Очередь сообщений.md",
-            "mode": "source",
+            "file": "IT/Computer Technologies/Принципы/Разделение ответственности.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#unique",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Computer Technologies/Очередь сообщений.md",
+                "file": "IT/Computer Technologies/Принципы/Разделение ответственности.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "925e8eab036ed556",
+  "active": "dbea94ef15f79025",
   "lastOpenFiles": [
-    "IT/Database/Буферный кэш.md",
-    "IT/Database/Индекс.md",
-    "IT/Database/Кардинальность и селективность.md",
-    "IT/Database/SCRAM протокол.md",
-    "IT/Database/SQL.md",
-    "IT/Database/Ключи БД.md",
-    "IT/Database/Общая архитектура PostgreSQL.md",
-    "IT/Database/Ограничения в БД.md",
-    "IT/Database/Планировщик СУБД.md",
-    "IT/Database/Представления в СУБД.md"
+    "IT/Computer Technologies/algorithms/LinkedList.md",
+    "IT/Computer Technologies/algorithms/Массив.md",
+    "IT/rabbitmq/RabbitMQ ссылки.md",
+    "IT/Computer Technologies/js and node/Соглашение params first, callback last.md",
+    "IT/Computer Technologies/Обратный вызов.md",
+    "IT/Computer Technologies/Функция обратного вызова.md",
+    "IT/Computer Technologies/Асинхронный I-O.md",
+    "IT/Computer Technologies/js and node/Node.js.md",
+    "IT/Computer Technologies/SR-Latch.md",
+    "IT/Computer Technologies/Тип данных.md"
   ]
 }
