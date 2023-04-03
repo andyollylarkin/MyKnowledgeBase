@@ -10,9 +10,9 @@ tags: [go, tips, golang, type system]
 
 ```go
 var i any = "hello"
-s := i.(string) // утрждение о том, что i имеет тип string
+s, ok := i.(string) // утверждение о том, что i имеет тип string
 
-t := i(T) // общий синтаксис, где T означает Type
+t := i.(T) // общий синтаксис, где T означает Type
 
 ```
 

@@ -2,7 +2,6 @@
 aliases: []
 tags: [research]
 ---
-# Сколько Postgres пишет за один раз на диск
 <h6>03-10-2022</h6>
 ----------
 ## Определение
@@ -30,7 +29,7 @@ watch -d -n 1 cat ./io
 ![[Pasted image 20221003183634.png]]
 
 Итого:
-write_bytes (initial) - write_bytes(current) = <span style="color: blue"><b>57344-49152 = 8192 или 8 kB</b></span>
+write_bytes (current) - write_bytes(initial) = <span style="color: blue"><b>57344-49152 = 8192 или 8 kB</b></span>
 
 ---
 ## Библиография

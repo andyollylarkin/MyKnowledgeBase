@@ -4,47 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "5ed27dae783a8eb7",
+        "id": "3c3ced44ae4d53b4",
         "type": "tabs",
         "children": [
           {
-            "id": "dbea94ef15f79025",
+            "id": "4b7010968c4bc03b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Computer Technologies/golang/Ошибки.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0f1d67cb5befbe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Linux/Структура памяти процесса.md",
+                "file": "English/Времена/Времена в английском языке.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "876e01b6dd72c465",
+            "id": "795734616ac5d750",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Computer Technologies/Компьютерная арифметика.md",
-                "mode": "preview",
+                "file": "English/Времена/Времена в английском языке.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae131925f65e069f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Computer Technologies/Saga pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56c965aa3ea78497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Времена/Времена в английском языке.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,12 +85,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "числа",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           }
@@ -86,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 338.5
   },
   "right": {
     "id": "d1cb40fc119b2f9f",
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Структура памяти процесса.md",
+                "file": "English/Времена/Времена в английском языке.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,19 +140,58 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 342.5
   },
-  "active": "a0f1d67cb5befbe4",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "56c965aa3ea78497",
   "lastOpenFiles": [
-    "IT/Database/Статистика в БД.md",
-    "IT/Linux/Структура памяти процесса.md",
-    "IT/Computer Technologies/golang/Ошибки.md",
-    "IT/Computer Technologies/Тип данных.md",
-    "IT/Math&Logic/Системы счисления.md",
-    "IT/Math&Logic/Периодические дроби.md",
-    "IT/Math&Logic/Множество.md",
-    "IT/Math&Logic/Логические связки.md",
-    "IT/Math&Logic/Базовые математические определения.md",
-    "IT/Computer Technologies/Главный технический императив.md"
+    "SelfGrowth/career_notes/О чистом коде.md",
+    "IT/Computer Technologies/Saga pattern.md",
+    "files/Pasted image 20230403091924.png",
+    "English/Времена/Времена в английском языке.md",
+    "English/Вспомогательный глагол to be.md",
+    "IT/Linux/Права доступа.md",
+    "IT/Database/Postgres Observability.md",
+    "IT/Database/Data languages types.md",
+    "IT/Database/sql_conceptions_explained/CROSS JOIN.md",
+    "IT/Database/Реляционная алгебра и модель данных.md",
+    "IT/Database/ACID.md",
+    "IT/Computer Technologies/Тестирование.md",
+    "IT/Computer Technologies/TCP-IP.md",
+    "IT/Computer Technologies/Pessimistic Lock.md",
+    "IT/Computer Technologies/Pattern Matching.md",
+    "IT/Computer Technologies/Open_Closed принцип.md",
+    "IT/Computer Technologies/NTP.md",
+    "IT/Computer Technologies/HTTP Keep-Alive.md",
+    "IT/Computer Technologies/git специальные символы.md",
+    "IT/Computer Technologies/JWT.md",
+    "IT/Computer Technologies/SSL-TLS.md",
+    "IT/Computer Technologies/OpenSSL.md",
+    "IT/Computer Technologies/Виды шифрования.md",
+    "IT/Computer Technologies/golang/Описание функций и пакетов/Пакет HTTP.md",
+    "English/Переводы статей/How to manage connection efficiently in Postgres, or Any Database.md",
+    "files/Pasted image 20230401214629.png",
+    "IT/Database/Postgres connection string и SSL.md",
+    "IT/Вопросы по темам для обучения.md",
+    "English/Переводы статей",
+    "files/Pasted image 20230314083328.png",
+    "Untitled.canvas",
+    "SelfGrowth/liveflow_notes",
+    "files/Pasted image 20230302150002.png",
+    "files/Pasted image 20230302145010.png",
+    "IT/message_brokers/kafka",
+    "IT/message_brokers/rabbitmq",
+    "English/Времена",
+    "English"
   ]
 }

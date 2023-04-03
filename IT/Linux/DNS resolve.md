@@ -1,12 +1,12 @@
 ---
-aliases: [nsswitch, dns resolve, nslookup, nameservice, nss, nsswitch, getaddrinfo]
+aliases: [nsswitch, dns resolve, nslookup, nameservice, nss, nsswitch, getaddrinfo, resolve.conf]
 tags: [linux, dns, networking, network]
 ---
 # DNS resolve
 <h6>03-10-2022</h6>
 ----------
 ## Определение
-В [[glibc]] есть семейство функций _getaddrinfo_ для определения адреса.
+>В [[glibc]] есть семейство функций _getaddrinfo_ для определения адреса.
 
 При резолве адресов нужно понимать очередность того, откуда будут браться значения, их несколько:
 - внутреняя БД
@@ -25,5 +25,5 @@ tags: [linux, dns, networking, network]
 
 ---
 ## Библиография
-- [https://habr.com/ru/post/352300/](Как работает резолв DNS в Linux)
+- [Как работает резолв DNS в Linux](https://habr.com/ru/post/352300/)
 - man 5 nsswitch.conf, man getaddrinfo

@@ -9,8 +9,6 @@ tags: [go, golang, tools, utils, basis]
 Инструменты командной строки **Golang**
 
 
-
-
 ---
 ## Библиография
-- 
+- [Настройка переменных с помощью LDFLAGS](https://www.8host.com/blog/nastrojka-informacii-o-versiyax-prilozheniya-go-s-pomoshhyu-ldflags/)

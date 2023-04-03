@@ -31,7 +31,8 @@ aliases: [google dorks]
 |Поиск в заголовке|intitle:|
 |Поиск в url|inurl:|
 |Поиск по якорю на странице|inanchor:|
-> <h4 style='color: red'>Все операторы in поддерживают all</h4>
+
+ <h4 style='color: red'>Все операторы in поддерживают all</h4>
 
 ---
 ## Библиография

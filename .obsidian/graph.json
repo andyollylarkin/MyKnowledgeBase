@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "DATABASE",
+      "query": "tag:#database",
       "color": {
         "a": 1,
         "rgb": 9657558
@@ -22,23 +22,37 @@
       }
     },
     {
-      "query": "golang",
+      "query": "tag:#golang",
       "color": {
         "a": 1,
         "rgb": 6083798
+      }
+    },
+    {
+      "query": "tag:#oop",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#algorithms",
+      "color": {
+        "a": 1,
+        "rgb": 15735212
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.686324786324786,
-  "lineSizeMultiplier": 1.31452991452991,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 0.801822916666667,
+  "lineSizeMultiplier": 1.38880208333333,
   "collapse-forces": false,
-  "centerStrength": 0.478632478632479,
-  "repelStrength": 9.57264957264957,
+  "centerStrength": 0.5390625,
+  "repelStrength": 11.3020833333333,
   "linkStrength": 1,
   "linkDistance": 183,
-  "scale": 0.9999999999999799,
-  "close": true
+  "scale": 0.48854597807785793,
+  "close": false
 }

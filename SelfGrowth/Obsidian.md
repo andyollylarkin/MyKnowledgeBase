@@ -1,5 +1,5 @@
 # Obsidian 
-#obsidian #zettelkasten #software #obsidian_features 
+#obsidian #zettelkasten #software #obsidian_features #program
 
 ----------
 ## Как использовать фичи Obsidian (в т.ч. markdown разметка)
